@@ -1,0 +1,20 @@
+const database = 'test';
+
+use(database);
+
+//* CREATE
+db.users.insertOne({name: "test1", email: "test1@example.com"})
+db.users.insertOne({name: "test2", email: "test2@example.com"})
+
+//* READ
+db.users.find()
+
+//* UPDATE
+db.users.updateOne(
+  { _id: ObjectId("63de67ec9f2ee4817c1276d7") },
+  { $set: { name: 'updateTest1' }}
+)
+
+//* DELETE
+db.users.deleteOne({ _id: ObjectId("63de67ec9f2ee4817c1276d7") })
+

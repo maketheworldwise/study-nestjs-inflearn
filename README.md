@@ -6,8 +6,10 @@
 
 - Express 기초
 - [MongoDB 기초](./docs/MongoDB.md)
+- [NestJS 기초](./docs/NestJS.md)
 
 ## 📚 참고 레퍼런스
 
 - https://github.com/amamov/teaching-nestjs-a-to-z/tree/main/01%20%EC%B2%AB%20%EC%8B%9C%EC%9E%91
 - https://learn.microsoft.com/ko-kr/azure/architecture/best-practices/api-design
+- https://docs.nestjs.com/

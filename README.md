@@ -4,6 +4,8 @@
 
 ## 🌴 학습 내용
 
+- Express 기초
+
 ## 📚 참고 레퍼런스
 
 - https://github.com/amamov/teaching-nestjs-a-to-z/tree/main/01%20%EC%B2%AB%20%EC%8B%9C%EC%9E%91

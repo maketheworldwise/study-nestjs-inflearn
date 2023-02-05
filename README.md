@@ -7,6 +7,7 @@
 - Express 기초
 - [MongoDB 기초](./docs/MongoDB.md)
 - [NestJS 기초](./docs/NestJS.md)
+- [고양이 정보 커뮤니티](https://github.com/maketheworldwise/study-cat-nestjs-inflearn-practice)
 
 ## 📚 참고 레퍼런스
 

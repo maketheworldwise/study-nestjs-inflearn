@@ -8,6 +8,7 @@
 - [MongoDB 기초](./docs/MongoDB.md)
 - [NestJS 기초](./docs/NestJS.md)
 - [고양이 정보 커뮤니티](https://github.com/maketheworldwise/study-cat-nestjs-inflearn-practice)
+- [AWS S3, Lightsail](./docs/S3-Lightsail.md)
 
 ## 📚 참고 레퍼런스
 
